@@ -49,6 +49,10 @@ This node application uses the following npm packages:
         └── main.handlebars
 ```
 
+#### Demo
+
+- [heroku demo](https://quiet-bayou-59245.herokuapp.com/)
+
 #### Demo Gif
 
 ![demo of app](https://github.com/r-ruiz/burger/blob/master/public/assets/img/demoapp.gif)
